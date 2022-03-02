@@ -1,0 +1,2 @@
+# original bda
+bda_original_lo='//div//slot/slot/flexipage-component2[3]/slot/lst-related-list-container/div/div[1]/lst-related-list-single-container/laf-progressive-container/slot/lst-related-list-single-app-builder-mapper/article/lst-related-list-view-manager/lst-common-list-internal/div/div/lst-primary-display-manager/div/lst-primary-display/lst-primary-display-card/lst-customized-template-list/div/lst-template-list-item-factory[1]/lst-history-card/article/div/div/dl/dd[4]/lst-template-list-field/lst-any-type/lightning-formatted-text'
