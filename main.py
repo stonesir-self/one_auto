@@ -31,7 +31,7 @@ import sys
 import unicodedata
 import my_b
 from my_b import b_selenum as b
-from base.salary_fun import *
+from base.main_fun.py import *
 from my_location import *
 from other_lo import *
 
